@@ -1,0 +1,9 @@
+h1 {
+    color: #ff695b;
+}
+
+hr {
+    border-top: 5px dotted #ff8080;
+    width: 500px;
+    margin-bottom: 20px;
+}
